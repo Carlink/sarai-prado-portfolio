@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 97vh" class="center">
+  <div style="height: 95vh" class="center">
     <flipbook class="flipbook" :startPage="startPage" :pages="pages"></flipbook>
   </div>
 </template>
